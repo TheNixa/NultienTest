@@ -18,6 +18,10 @@ open projct in visual studio code and run the following command in terminal
 dotnet restore
 ```
 
+```bash
+dotnet build
+```
+
 ## Running Tests
 
 ```bash
